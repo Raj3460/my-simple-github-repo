@@ -1,6 +1,6 @@
 div{ 
 
-       /* background-color: royalblue; */
+       background-color: royalblue;
        margin: 20px; padding-left: 15px;
        border-radius: 20px;
        border:rgb(204, 104, 22)
@@ -17,3 +17,4 @@ h4{ font-size: larger;
 
 }
 .file{ color: azure;}
+image{ size-adjust: 1px;}
